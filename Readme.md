@@ -146,8 +146,8 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 </p>
 
 # ❤ Views and Followers
-<a href="https://github.com/0904-mansi/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=0904-mansi">
+<a href="https://github.com/mansi-mishra0904/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mansi-mishra0904">
 </a> 
 
 </div>
